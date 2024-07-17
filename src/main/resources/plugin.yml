@@ -1,0 +1,7 @@
+name: TimePlugin
+version: 1.0
+main: org.adrkaa.example.timeplugin.TimePlugin
+api-version: 1.13
+commands:
+  time:
+    usage: /time
